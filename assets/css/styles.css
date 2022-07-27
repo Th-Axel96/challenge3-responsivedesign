@@ -1,0 +1,19 @@
+.bg-lime-700 {
+  background-color: #169c39;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.pt-8 {
+  padding-top: 2rem;
+}

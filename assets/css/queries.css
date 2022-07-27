@@ -1,0 +1,17 @@
+@media screen and (max-width: 768px) {
+  .sm-bg-indigo-700 {
+    background-color: #5d159b;
+  }
+  .sm-text-turquoise {
+    color: #00fff7;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .ml-bg-blue {
+    background-color: #acc8e5;
+  }
+  .ml-text-brown {
+    color: #5b0606;
+  }
+}
